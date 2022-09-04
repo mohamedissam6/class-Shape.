@@ -1,0 +1,8 @@
+F:\cprj\C#prj\assig4\question3\question3\bin\Debug\question3.exe.config
+F:\cprj\C#prj\assig4\question3\question3\bin\Debug\question3.exe
+F:\cprj\C#prj\assig4\question3\question3\bin\Debug\question3.pdb
+F:\cprj\C#prj\assig4\question3\question3\obj\Debug\question3.csproj.AssemblyReference.cache
+F:\cprj\C#prj\assig4\question3\question3\obj\Debug\question3.csproj.SuggestedBindingRedirects.cache
+F:\cprj\C#prj\assig4\question3\question3\obj\Debug\question3.csproj.CoreCompileInputs.cache
+F:\cprj\C#prj\assig4\question3\question3\obj\Debug\question3.exe
+F:\cprj\C#prj\assig4\question3\question3\obj\Debug\question3.pdb
